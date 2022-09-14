@@ -1,4 +1,7 @@
 # Landing-Page
 TOP Landing Page Flexbox project
+Not a full, functioning website. 
 
-A landing page with the subject of great the Stoics (Marcus Aurelius, Seneca, Epicetus)
+A landing page around the subject of stoicism. 
+
+The three great Stoics are Marcus Aurelius, Seneca, Epicetus
