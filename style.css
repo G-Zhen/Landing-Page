@@ -1,10 +1,25 @@
 body {
-    
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightgoldenrodyellow;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
 }
 
 /*Section 1 Header*/
+.section1 {
+    background-color: indigo;
+    display: flex;
+    flex: 1;
+}
+
+
 /*Section 2 Random Info*/
 /*Section 3 Quote*/
 /*Section 4 Sign Up*/
 /*Footer*/
+.footer {
+    background-color: indigo;
+    display: flex;
+}
 
