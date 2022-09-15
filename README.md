@@ -22,3 +22,5 @@ Image Sources:
 
 Quote source:
 Aurelius, Marcus. Meditations. Translated by Martin Hammond, Penguin Classics, 2006. 
+
+Started and completed 09.14.2022
