@@ -10,6 +10,11 @@ What I gained from this project:
 * Task management skills in keeping track of HTML and CSS components in conjunction
 * Web design basics
 
+Languages used:
+* HTML
+* CSS
+  *flexbox
+
 Image Sources:
 * Epictetus: https://fourteenlines.blog/tag/epictetus/ 
 * Seneca: https://en.wikipedia.org/wiki/Seneca_the_Younger
