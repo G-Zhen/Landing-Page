@@ -1,7 +1,7 @@
 # Landing-Page
 TOP Landing Page Flexbox project.
 A landing page around the subject of stoicism. 
-Not a full, functioning website. There are no actual external links. The main purpose of this project was the CSS flexbox styling.
+Not a full, functioning website. The sign up buttons don't actually do anything. The main purpose of this project was the CSS flexbox styling.
 
 Why Stoicism? It's what I've been into recently on my self-improvement journey. It's powerful stuff.
 
