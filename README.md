@@ -1,5 +1,5 @@
 # Landing-Page
-TOP Landing Page Flexbox project
+TOP Landing Page Flexbox project.
 A landing page around the subject of stoicism. 
 Not a full, functioning website. There are no actual external links. The main purpose of this project was the CSS flexbox styling.
 
@@ -21,6 +21,6 @@ Image Sources:
 * Marcus Aurelius: https://www.fondazionetorlonia.org/bust-marcus-aurelius 
 
 Quote source:
-Aurelius, Marcus. Meditations. Translated by Martin Hammond, Penguin Classics, 2006. 
+* Aurelius, Marcus. Meditations. Translated by Martin Hammond, Penguin Classics, 2006. 
 
 Started and completed 09.14.2022
