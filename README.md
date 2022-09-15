@@ -12,5 +12,4 @@ Image Sources:
 * Marcus Aurelius: https://www.fondazionetorlonia.org/bust-marcus-aurelius 
 
 Quote source:
-Page 33
 Aurelius, Marcus. Meditations. Translated by Martin Hammond, Penguin Classics, 2006. 
