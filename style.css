@@ -20,6 +20,8 @@ body {
     display: flex;
     color: aliceblue;
     justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 .left, .right {
@@ -97,7 +99,7 @@ button {
     width: 80px;
     margin-top: 15px;
 }
-}
+
 
 /*Section 2 Random Info*/
 .section2 {
@@ -208,9 +210,16 @@ button {
 .footer {
     background-color: indigo;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: content;
     color: aliceblue;
-    
+    padding: 15px;
+    flex-direction: column;
+}
+
+.textF {
+    display: flex;
+    justify-content: center;
+    align-items: content;
 }
 

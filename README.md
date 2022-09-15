@@ -1,10 +1,10 @@
 # Landing-Page
 TOP Landing Page Flexbox project
-Not a full, functioning website. 
-
 A landing page around the subject of stoicism. 
+Not a full, functioning website. There are no actual external links. The main purpose of this project was the CSS flexbox styling.
 
-The three great Stoics are Marcus Aurelius, Seneca, Epicetus
+What I gained from this project:
+* Compartamentalization skills that's needed for flexbox
 
 Image Sources:
 * Epictetus: https://fourteenlines.blog/tag/epictetus/ 
