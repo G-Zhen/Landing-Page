@@ -1,9 +1,11 @@
 body {
-    font-family: 'Times New Roman', Times, serif;
-    background-color: lightgoldenrodyellow;
+    font-family: Hero Secondary Text, Header Link Test;
+    background-color: aliceblue;
     display: flex;
     flex-direction: column;
     flex: 1;
+    margin: 0;
+    
 }
 
 /*Section 1 Header*/
@@ -11,15 +13,96 @@ body {
     background-color: indigo;
     display: flex;
     flex: 1;
+    flex-direction: column;
 }
 
+.header {
+    display: flex;
+    color: aliceblue;
+    justify-content: space-between;
+}
+
+.left, .right {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.logo {
+    font-weight: 600;
+    font-size: 24px;
+    display: flex;
+    margin: 15px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex; /*turn list format into a side-by-side format*/
+    gap: 15px;
+    margin: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.container1 {
+    display: flex;
+    margin: 25px;
+    justify-content: space-around;
+}
+
+.about {
+    display: flex;
+    flex-direction: column;
+    color: aliceblue;
+    padding: 0;
+    width: 500px;
+    height: 300px;
+}
+
+.headline {
+    color: lavendar;
+    display: flex;
+    font-weight: 800;
+    font-size: 50px;
+    margin-bottom: 5px;
+}
+
+.summary {
+    color: lavendar;
+}
+
+.aboutIMG {
+    display: flex;
+    align-items: center;
+}
+
+button {
+    display: flex;
+    width: 70px;
+    height: auto;
+    background-color: goldenrod;
+}
 
 /*Section 2 Random Info*/
+.section2 {
+    background-color: white;
+}
+
 /*Section 3 Quote*/
+.section3 {
+    background-color: lavender;
+}
 /*Section 4 Sign Up*/
+
 /*Footer*/
 .footer {
     background-color: indigo;
     display: flex;
+    justify-content: center;
+    align-items: content;
+    color: aliceblue;
 }
 
