@@ -3,8 +3,12 @@ TOP Landing Page Flexbox project
 A landing page around the subject of stoicism. 
 Not a full, functioning website. There are no actual external links. The main purpose of this project was the CSS flexbox styling.
 
+Why Stoicism? It's what I've been into recently on my self-improvement journey. It's powerful stuff.
+
 What I gained from this project:
 * Compartamentalization skills that's needed for flexbox
+* Task management skills in keeping track of HTML and CSS components in conjunction
+* Web design basics
 
 Image Sources:
 * Epictetus: https://fourteenlines.blog/tag/epictetus/ 
