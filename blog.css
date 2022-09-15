@@ -54,8 +54,8 @@ a {
     display: flex;
     margin: 25px;
     justify-content: space-around;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .about {
@@ -72,33 +72,14 @@ a {
     display: flex;
     font-weight: 800;
     font-size: 50px;
-    margin-bottom: 5px;
+    margin-bottom: 15px;
 }
 
 .summary {
     color: lavendar;
 }
 
-.aboutIMG {
-    display: flex;
-    align-items: center;
-}
 
-button {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: auto;
-    border: solid;
-    border-color: gold;
-    border-radius: 8px;
-    background: rgb(43, 34, 209);
-    color: white;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    width: 80px;
-    margin-top: 15px;
-}
 
 /*Section 2 Quote*/
 .section2 {
@@ -195,9 +176,13 @@ button {
     flex-direction: column;
 }
 
-.textF {
+.home, .textF {
     display: flex;
     justify-content: center;
     align-items: content;
 }
 
+.home {
+    font-weight: 200;
+    font-size: 25px;
+}
